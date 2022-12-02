@@ -54,7 +54,7 @@
 
 журнал изменений с визуализацией
 
-git branch branch_name
+**git branch branch_name**
 
 создать новую ветку
 
