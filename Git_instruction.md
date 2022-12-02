@@ -1,4 +1,4 @@
-# GIT instruction
+# GIT instruction ПШЕ
 
 ## Настройка Git для начала работы:
 
